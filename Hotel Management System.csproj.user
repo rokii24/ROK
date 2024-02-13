@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Control\Uc_Categories.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\UC_Clients.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\UC_Dasboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\UC_EmployeeClient.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\UC_EmployeeProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\UC_EmployeeReservation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\UC_EmployeeRooms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\UC_Feedback.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\UC_MyProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\UC_ProfileFeedback.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\UC_ProfileReservation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\Uc_ProfileRooms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\Uc_Reservation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\UC_Rooms.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="User Control\UC_Users.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
